@@ -5,6 +5,6 @@
 
 ## Team Members
 
-* Team Member 1:
-* Team Member 2:
-* Team Member 3:
+* Team Member 1:John DePetro
+* Team Member 2:Michael Ott
+* Team Member 3:Maya Anand
